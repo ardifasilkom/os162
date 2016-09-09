@@ -17,3 +17,4 @@ drwxr-xr-x  2 rachmad.ardiansyah StafCS 4096 Sep  8 15:32 week08
 drwxr-xr-x  2 rachmad.ardiansyah StafCS 4096 Sep  8 15:32 week09
 drwxr-xr-x  2 rachmad.ardiansyah StafCS 4096 Sep  8 15:33 week10
 /home/fasilkom/mahasiswa/r/rachmad.ardiansyah/os162/week01
+Today is 09 Sep 2016 at 11:27:05
