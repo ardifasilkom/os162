@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 rachmad.ardiansyah StafCS 4096 Sep  9 11:05 .
+drwx--x--x  3 rachmad.ardiansyah StafCS 4096 Sep  9 11:02 ..
+drwxr-xr-x  8 rachmad.ardiansyah StafCS 4096 Sep  9 11:03 .git
+-rw-r--r--  1 rachmad.ardiansyah StafCS    0 Sep  9 11:05 lab01.txt
+-rw-r--r--  1 rachmad.ardiansyah StafCS    7 Sep  8 15:01 README.md
+drwxr-xr-x  2 rachmad.ardiansyah StafCS 4096 Sep  8 15:20 SandBox
+drwxr-xr-x  2 rachmad.ardiansyah StafCS 4096 Sep  9 11:02 week00
+drwxr-xr-x  2 rachmad.ardiansyah StafCS 4096 Sep  8 15:30 week01
+drwxr-xr-x  2 rachmad.ardiansyah StafCS 4096 Sep  8 15:31 week02
+drwxr-xr-x  2 rachmad.ardiansyah StafCS 4096 Sep  8 15:32 week03
+drwxr-xr-x  2 rachmad.ardiansyah StafCS 4096 Sep  8 15:32 week04
+drwxr-xr-x  2 rachmad.ardiansyah StafCS 4096 Sep  8 15:32 week05
+drwxr-xr-x  2 rachmad.ardiansyah StafCS 4096 Sep  8 15:32 week06
+drwxr-xr-x  2 rachmad.ardiansyah StafCS 4096 Sep  8 15:32 week07
+drwxr-xr-x  2 rachmad.ardiansyah StafCS 4096 Sep  8 15:32 week08
+drwxr-xr-x  2 rachmad.ardiansyah StafCS 4096 Sep  8 15:32 week09
+drwxr-xr-x  2 rachmad.ardiansyah StafCS 4096 Sep  8 15:33 week10
+/home/fasilkom/mahasiswa/r/rachmad.ardiansyah/os162/week01
